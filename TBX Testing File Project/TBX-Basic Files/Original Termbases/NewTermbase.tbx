@@ -1,0 +1,52 @@
+<?xml version='1.0'?>
+<!DOCTYPE martif SYSTEM "TBXBasiccoreStructV02.dtd">
+<!-- Created by the CRITI terminology management system. -->
+<martif type="TBX-Basic" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CRITI TBX-Basic File</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>CRITI system tbx export.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">http://www.lisa.org/fileadmin/standards/tbx_basic/TBXBasicXCSV02.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="c7bde63d2-cf85-482d-b466-5843db501840">
+        <descrip type="subjectField">electronics</descrip>
+        <note>This is a note!</note>
+        
+      <descripGrp>
+        <descrip type="definition">This is a definition</descrip>
+        <admin type="source">google.com</admin>
+      </descripGrp>
+        
+      <descrip type="definition">This is another definition</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>shoe</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </tig>
+          <tig>
+            <term>boot</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>zapato</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+    </body></text>
+</martif>

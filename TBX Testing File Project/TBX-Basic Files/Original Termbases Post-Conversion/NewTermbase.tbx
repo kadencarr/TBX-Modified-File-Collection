@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE tbx SYSTEM "TBXBasiccoreStructV03.dtd">
+<tbx style="dca" type="TBX-Basic" xml:lang="en">
+  <tbxHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CRITI TBX-Basic File</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>CRITI system tbx export.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">http://www.lisa.org/fileadmin/standards/tbx_basic/TBXBasicXCSV02.xcs</p>
+    </encodingDesc>
+  </tbxHeader>
+  <text>
+    <body>
+      <conceptEntry id="c7bde63d2-cf85-482d-b466-5843db501840">
+        <descrip type="subjectField">electronics</descrip>
+        <note>This is a note!</note>
+        <descripGrp>
+          <descrip type="definition">This is a definition</descrip>
+          <admin type="source">google.com</admin>
+        </descripGrp>
+        <descrip type="definition">This is another definition</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>shoe</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>boot</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>zapato</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+    </body>
+  </text>
+</tbx>

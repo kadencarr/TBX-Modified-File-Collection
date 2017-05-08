@@ -1,0 +1,24 @@
+<tbx style="dct" type="TBX-Min">
+  <header>
+    <id>Jason's First TBX-Min File</id>
+    <description>Using the information found at http://www.tbxinfo.net/tbx-min-resources-and-tools/, I'm trying to make my own TBX-Min file to test with the TBX-Min Analyser App found at http://tbxinfo-c.byuling.net/tbx-min-analyser/
+	</description>
+    <languages source="en" target="es"/>
+    <dateCreated>2017-03-21T12:00:34</dateCreated>
+  </header>
+  <body>
+    <conceptEntry id="jh001">
+      <subjectField>technology</subjectField>
+      <langSec xml:lang="en">
+        <termSec>
+          <term>e-mail</term>
+        </termSec>
+      </langSec>
+      <langSec xml:lang="">
+        <termSec>
+          <term>courriel</term>
+        </termSec>
+      </langSec>
+    </conceptEntry>
+  </body>
+</tbx>

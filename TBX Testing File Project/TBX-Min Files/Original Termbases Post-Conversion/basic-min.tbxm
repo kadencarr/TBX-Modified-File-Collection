@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tbx style="dct" type="TBX-Min">
+  <header>
+    <id>TBX sample</id>
+    <description>A short sample file demonstrating TBX-Min</description>
+    <dateCreated>2013-11-12T00:00:00</dateCreated>
+    <languages source="de" target="en"/>
+    <creator>Klaus-Dirk Schmidt</creator>
+    <directionality>bidirectional</directionality>
+    <license>CC BY license can be freely copied and modified</license>
+  </header>
+  <body>
+    <conceptEntry id="C002">
+      <subjectField>biology</subjectField>
+      <langSec xml:lang="de">
+        <termSec>
+          <term>Hund</term>
+          <partOfSpeech>noun</partOfSpeech>
+        </termSec>
+      </langSec>
+      <langSec xml:lang="en">
+        <termSec>
+          <term>dog</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <termStatus>preferred</termStatus>
+          <customer>SAP</customer>
+        </termSec>
+        <termSec>
+          <term>hound</term>
+          <termStatus>obsolete</termStatus>
+          <partOfSpeech>noun</partOfSpeech>
+          <customer>SAP</customer>
+          <note>however bloodhound is used rather than blooddog</note>
+        </termSec>
+      </langSec>
+    </conceptEntry>
+    <conceptEntry id="c008">
+      <subjectField>biology</subjectField>
+      <langSec xml:lang="de">
+        <termSec>
+          <term>Katze</term>
+          <partOfSpeech>noun</partOfSpeech>
+        </termSec>
+      </langSec>
+      <langSec xml:lang="en">
+        <termSec>
+          <term>cat</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <customer>SAP</customer>
+        </termSec>
+      </langSec>
+    </conceptEntry>
+    <conceptEntry id="C007">
+      <subjectField>biology</subjectField>
+      <langSec xml:lang="de">
+        <termSec>
+          <term>Maus</term>
+          <partOfSpeech>noun</partOfSpeech>
+        </termSec>
+      </langSec>
+      <langSec xml:lang="en">
+        <termSec>
+          <term>mouse</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <customer>PestGone</customer>
+        </termSec>
+      </langSec>
+    </conceptEntry>
+  </body>
+</tbx>

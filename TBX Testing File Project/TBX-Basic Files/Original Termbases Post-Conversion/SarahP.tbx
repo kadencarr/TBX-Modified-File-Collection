@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE tbx SYSTEM "TBXBasiccoreStructV03.dtd">
+<tbx style="dca" type="TBX-Basic" xml:lang="en">
+  <tbxHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CRITI TBX-Basic File</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>CRITI system tbx export.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">http://www.lisa.org/fileadmin/standards/tbx_basic/TBXBasicXCSV02.xcs</p>
+    </encodingDesc>
+  </tbxHeader>
+  <text>
+    <body>
+      <conceptEntry id="c4492e025-9f5a-4d93-99d9-d4864476d14d">
+        <descrip type="subjectField">Animal</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Dog</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+    </body>
+  </text>
+</tbx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tbx SYSTEM "TBXcoreStructV03.dtd">
+<tbx style="dca" type="TBX-Default" xml:lang="en">
+  <tbxHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Oracle Terms</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>from an Oracle termbase</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">TBXXCSV02.xcs</p>
+    </encodingDesc>
+  </tbxHeader>
+  <text>
+    <body>
+      <conceptEntry id="c1">
+        <xref target="xx" type="corpusTrace">hr/per/SeedData/perzzdscflx00290.ldt:2,VALUE_SET.PAY_CA_PRE_ORG_ID_RL2.DESCRIPTION</xref>
+        <descrip type="subjectField">HR</descrip>
+        <admin type="productSubset">PER</admin>
+        <langSec xml:lang="en">
+          <descripGrp>
+            <descrip type="definition">GREs and PREs represent an employer the
+                            governments recognise as being responsible for paying employees and for
+                            filing a variety of reports. There must be a GRE for each Business
+                            Number that the Canada Customs and Revenue Agency (CCRA) assigns to an
+                            employer.</descrip>
+          </descripGrp>
+          <termSec>
+            <term>Provincial Reporting Establishment </term>
+          </termSec>
+          <termSec>
+            <term>PRE</term>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="pt">
+          <note>Termo específico aos EUA.</note>
+          <termSec>
+            <term>Entidade de Supervisão de Província </term>
+          </termSec>
+          <termSec>
+            <term>PRE</term>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c2">
+        <xref target="xx" type="corpusTrace">fi/pon/SeedData/ponmsg.ldt:7655,FND_NEW_MESSAGES.PON_PON_ITEM_PRICE_TARGET_VALUE.MESSAGE_TEXT</xref>
+        <descrip type="subjectField">FI</descrip>
+        <admin type="productSubset">PON</admin>
+        <langSec xml:lang="en">
+          <descripGrp>
+            <descrip type="definition">Click the link to browse and select active that
+                            have been created. You can still enter the target value and select a
+                            pricing basis for each price element in the list and then apply the
+                            list. </descrip>
+          </descripGrp>
+          <termSec>
+            <term>Target Value</term>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="pt">
+          <note>Different from 'Valor Alvo' that exists in the glossary for POM</note>
+          <termSec>
+            <term>Valor a Atingir</term>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+    </body>
+  </text>
+</tbx>

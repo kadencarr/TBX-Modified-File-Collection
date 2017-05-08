@@ -1,0 +1,402 @@
+<?xml version="1.0"?>
+<!DOCTYPE tbx SYSTEM "TBXBasiccoreStructV03.dtd">
+<tbx style="dca" type="TBX-Basic" xml:lang="en">
+  <tbxHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CRITI TBX-Basic File</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>CRITI system tbx export.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">http://www.lisa.org/fileadmin/standards/tbx_basic/TBXBasicXCSV02.xcs</p>
+    </encodingDesc>
+  </tbxHeader>
+  <text>
+    <body>
+      <conceptEntry id="c0e193d92-c392-4d88-8f59-14952999a0a8">
+        <transacGrp>
+          <transac type="transactionType">origination</transac>
+          <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+          <date>2016-02-09</date>
+        </transacGrp>
+        <langSec xml:lang="en">
+          <transacGrp>
+            <transac type="transactionType">origination</transac>
+            <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+            <date>2016-02-09</date>
+          </transacGrp>
+          <termSec>
+            <term>Term</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <admin type="source">source</admin>
+            <transacGrp>
+              <transac type="transactionType">origination</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-02-09</date>
+            </transacGrp>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c1ae6f376-8184-4443-81ef-b4d9393b9ea5">
+        <note>this is a note</note>
+        <descripGrp>
+          <descrip type="definition">definition</descrip>
+          <admin type="source">source</admin>
+        </descripGrp>
+        <transacGrp>
+          <transac type="transactionType">origination</transac>
+          <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+          <date>2016-02-09</date>
+        </transacGrp>
+        <transacGrp>
+          <transac type="transactionType">modification</transac>
+          <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+          <date>2016-02-09</date>
+        </transacGrp>
+        <transacGrp>
+          <transac type="transactionType">modification</transac>
+          <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+          <date>2016-02-09</date>
+        </transacGrp>
+        <transacGrp>
+          <transac type="transactionType">modification</transac>
+          <transacNote target="p11fcf121-01dc-42a6-b980-68c0fbff1394" type="responsibility">James Hayes</transacNote>
+          <date>2016-07-08</date>
+        </transacGrp>
+        <langSec xml:lang="en">
+          <transacGrp>
+            <transac type="transactionType">origination</transac>
+            <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+            <date>2016-02-09</date>
+          </transacGrp>
+          <termSec>
+            <term>clothes</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <admin type="source">common english</admin>
+            <descripGrp>
+              <descrip type="context">wearable items</descrip>
+              <admin type="source">personal experience</admin>
+            </descripGrp>
+            <transacGrp>
+              <transac type="transactionType">origination</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-02-09</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="p11fcf121-01dc-42a6-b980-68c0fbff1394" type="responsibility">James Hayes</transacNote>
+              <date>2016-07-08</date>
+            </transacGrp>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="de">
+          <transacGrp>
+            <transac type="transactionType">origination</transac>
+            <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+            <date>2016-02-09</date>
+          </transacGrp>
+          <termSec>
+            <term>Klamotten</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="geographicalUsage">DE</termNote>
+            <admin type="source">soureee</admin>
+            <admin type="projectSubset">this is a project</admin>
+            <descripGrp>
+              <descrip type="context">wearable items</descrip>
+              <admin type="source">personal experience</admin>
+            </descripGrp>
+            <descripGrp>
+              <descrip type="context">context for klamotten</descrip>
+              <admin type="source">csource</admin>
+            </descripGrp>
+            <xref target="target" type="externalCrossReference">reference content</xref>
+            <transacGrp>
+              <transac type="transactionType">origination</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-02-09</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-02-09</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-02-09</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="p11fcf121-01dc-42a6-b980-68c0fbff1394" type="responsibility">James Hayes</transacNote>
+              <date>2016-07-12</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="p11fcf121-01dc-42a6-b980-68c0fbff1394" type="responsibility">James Hayes</transacNote>
+              <date>2016-07-12</date>
+            </transacGrp>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c6317e0ea-6ca8-4c88-86ad-d1f3e81a735c">
+        <transacGrp>
+          <transac type="transactionType">origination</transac>
+          <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+          <date>2016-02-09</date>
+        </transacGrp>
+        <langSec xml:lang="en">
+          <transacGrp>
+            <transac type="transactionType">origination</transac>
+            <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+            <date>2016-02-09</date>
+          </transacGrp>
+          <termSec>
+            <term>mouse</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <transacGrp>
+              <transac type="transactionType">origination</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-02-09</date>
+            </transacGrp>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c916a1e50-b55f-4cbd-9651-dd5cfcc30a72">
+        <transacGrp>
+          <transac type="transactionType">origination</transac>
+          <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+          <date>2016-01-11</date>
+        </transacGrp>
+        <transacGrp>
+          <transac type="transactionType">modification</transac>
+          <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+          <date>2016-03-08</date>
+        </transacGrp>
+        <transacGrp>
+          <transac type="transactionType">modification</transac>
+          <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+          <date>2016-03-08</date>
+        </transacGrp>
+        <transacGrp>
+          <transac type="transactionType">modification</transac>
+          <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+          <date>2016-03-08</date>
+        </transacGrp>
+        <langSec xml:lang="en">
+          <transacGrp>
+            <transac type="transactionType">origination</transac>
+            <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+            <date>2016-01-11</date>
+          </transacGrp>
+          <transacGrp>
+            <transac type="transactionType">modification</transac>
+            <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+            <date>2016-04-02</date>
+          </transacGrp>
+          <transacGrp>
+            <transac type="transactionType">modification</transac>
+            <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+            <date>2016-04-02</date>
+          </transacGrp>
+          <transacGrp>
+            <transac type="transactionType">modification</transac>
+            <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+            <date>2016-04-02</date>
+          </transacGrp>
+          <termSec>
+            <term>cow</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <transacGrp>
+              <transac type="transactionType">origination</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-01-11</date>
+            </transacGrp>
+          </termSec>
+          <termSec>
+            <term>bull</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <transacGrp>
+              <transac type="transactionType">origination</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-01-11</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-03-08</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-03-08</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-04-02</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-04-02</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-04-02</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-04-02</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-04-02</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="p11fcf121-01dc-42a6-b980-68c0fbff1394" type="responsibility">James Hayes</transacNote>
+              <date>2016-07-08</date>
+            </transacGrp>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="ko">
+          <transacGrp>
+            <transac type="transactionType">origination</transac>
+            <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+            <date>2016-01-12</date>
+          </transacGrp>
+          <termSec>
+            <term>So</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <transacGrp>
+              <transac type="transactionType">origination</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-01-12</date>
+            </transacGrp>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="ca60e0cb9-30d3-466f-aba8-323294edcb4f">
+        <descrip type="subjectField">clothing</descrip>
+        <descrip type="definition">protective footwear</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>shoe</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>zapato</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <termNote type="geographicalUsage">029</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cbafceee2-3493-49e3-bc63-4adcab5d631c">
+        <descrip type="definition">asdf</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>worm</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="de">
+          <termSec>
+            <term>Wurm</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cdba30efa-18ef-4f1e-aa0e-a3b8153c2693">
+        <transacGrp>
+          <transac type="transactionType">origination</transac>
+          <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+          <date>2016-02-16</date>
+        </transacGrp>
+        <langSec xml:lang="en">
+          <transacGrp>
+            <transac type="transactionType">origination</transac>
+            <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+            <date>2016-02-16</date>
+          </transacGrp>
+          <termSec>
+            <term>Caribbean Community (CARICOM)</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <transacGrp>
+              <transac type="transactionType">origination</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-02-16</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-02-16</date>
+            </transacGrp>
+            <transacGrp>
+              <transac type="transactionType">modification</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+              <date>2016-02-16</date>
+            </transacGrp>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="ce350458f-abd2-4f8b-8904-6041ccd56157">
+        <transacGrp>
+          <transac type="transactionType">origination</transac>
+          <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+        </transacGrp>
+        <langSec xml:lang="en">
+          <transacGrp>
+            <transac type="transactionType">origination</transac>
+            <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+          </transacGrp>
+          <termSec>
+            <term>qwerty</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <transacGrp>
+              <transac type="transactionType">origination</transac>
+              <transacNote target="pb32a0edd-2f0c-4122-bb80-15608f276d2d" type="responsibility">James Hayes</transacNote>
+            </transacGrp>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+    </body>
+    <back>
+      <refObjectSec type="respPerson">
+        <refObject id="pb32a0edd-2f0c-4122-bb80-15608f276d2d">
+          <item type="role">staff</item>
+          <item type="fn">James Hayes</item>
+          <item type="email">james.s.hayes@gmail.com</item>
+        </refObject>
+        <refObject id="ped6ff176-d278-40cb-9843-8c1a79d1e28a">
+          <item type="role">admin</item>
+          <item type="fn">Alan Melby</item>
+          <item type="email">alan.melby@gmail.com</item>
+        </refObject>
+      </refObjectSec>
+    </back>
+  </text>
+</tbx>

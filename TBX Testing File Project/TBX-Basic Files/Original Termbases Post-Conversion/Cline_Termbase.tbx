@@ -1,0 +1,581 @@
+<?xml version="1.0"?>
+<!DOCTYPE tbx SYSTEM "TBXBasiccoreStructV03.dtd">
+<tbx style="dca" type="TBX-Basic" xml:lang="en">
+  <tbxHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CRITI TBX-Basic File</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>CRITI system tbx export.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">http://www.lisa.org/fileadmin/standards/tbx_basic/TBXBasicXCSV02.xcs</p>
+    </encodingDesc>
+  </tbxHeader>
+  <text>
+    <body>
+      <conceptEntry id="c031bcad9-63c6-498d-adba-d9eeebc79625">
+        <descrip type="subjectField">religion</descrip>
+        <descrip type="definition">a group of people who are chosen to make rules, laws, or decisions about something</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Council</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Consejo</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c14784b60-8691-4425-873a-d2114be4bd98">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>natural disaster</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>desastre natural</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c1bf9cea2-2a0d-493a-8652-dcdbabf41c1e">
+        <descrip type="subjectField">manufacturing</descrip>
+        <descrip type="definition"> a substance from which something is made or can be made</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>material</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>material</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c1daa66c6-1932-47c7-a290-3dec6c84a79e">
+        <descrip type="definition">to be in want</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>need</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>necesitar</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c1f85e892-1c16-4fab-ac93-91afc49781dd">
+        <descrip type="subjectField">religion</descrip>
+        <descrip type="definition">Highest governing body in the LDS church, comprised of a president and two counselors.</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>First Presidency</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Primera Presidencia</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c23051e9c-518c-4979-a946-710a7e1c28ee">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>natural disaster</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>desastres naturales</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c242aa499-be7b-4630-9061-7d915eb1b15c">
+        <descrip type="definition">influence</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>impact</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>impacto</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c261f7ee5-4e5b-49f1-b2fb-6d04c96496c4">
+        <descrip type="definition">large</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>great</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>grande</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c38622bda-906c-410b-b169-72b7addb21ce">
+        <descrip type="definition">a sudden event (such as a crash) that is not planned or intended and that causes damage or injury</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>accident</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>mishap</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">supersededTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>accidente</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c3fdf05d6-46c8-4184-b49e-1a0ee2d7086b">
+        <descrip type="subjectField">medical</descrip>
+        <descripGrp>
+          <descrip type="definition">a place where people get medical help</descrip>
+          <admin type="source">Merriam-Webster</admin>
+        </descripGrp>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>clinic</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>clínica</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>consulta</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c43e1a79c-1e26-4158-b5d0-cf6a8657e808">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>insurance company</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>comañía de seguros</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c590925b6-7d1e-4c31-850f-2d3607e80a14">
+        <descrip type="definition">to give freely</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>donate</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>donar</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>donar</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>donar</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>donar</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c65e2165f-0b30-4c06-b71f-e3d7d8f59d2e">
+        <descrip type="subjectField">prosthetics</descrip>
+        <descripGrp>
+          <descrip type="definition">of or relating to a prosthesis or prosthetics</descrip>
+          <admin type="source">Merriam-Webster</admin>
+        </descripGrp>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>prosthetic</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>protético</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>prostético</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c73dd4f85-5f06-498d-854c-7d95e1df59ab">
+        <descrip type="subjectField">manufacturing</descrip>
+        <descrip type="definition">a substance from which something is made or can be made</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>materials</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>matariales</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c77ffb418-a509-46d4-b8ea-050cf31266c0">
+        <descrip type="subjectField">economics</descrip>
+        <descrip type="definition">affordable</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>inexpensive</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>económico</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c7ed4e341-b024-437c-9de6-63b6398db1fc">
+        <descrip type="definition">Able to be purchased based on a given budget</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>affordable</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>asequible</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>económico</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c80ccfa43-fb14-4ed7-bb3c-a3775112fdc2">
+        <descrip type="definition">of or relating to people or society in general</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>social</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>social</term>
+            <termNote type="partOfSpeech">adjective</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c83c33aff-8f3a-4936-b065-efe9eced1e28">
+        <descrip type="definition">The United States of America</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>United States</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Estados Unidos</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>E.E.U.U</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c86e442e8-104c-4796-acb4-d3e66e6ef97d">
+        <descrip type="definition">an object, machine, or piece of equipment that has been made for some special purpose</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>device</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>dispositivo</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>aparato</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c92b0262f-a894-4bbb-86be-c6908ac3e2dc">
+        <descrip type="subjectField">religion, LDS</descrip>
+        <descrip type="definition">The second highest governing body of the LDS church, comprised of twelve men.</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Quorum of the Twelve Apostles</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Cuórum de los Doce Apóstoles</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c9da84e2f-c6b7-45f1-a9e8-f81039b6f5fc">
+        <descrip type="subjectField">medical</descrip>
+        <descripGrp>
+          <descrip type="definition">one of the long body parts that are used especially for standing, walking, and running</descrip>
+          <admin type="source">Meriam-Webster</admin>
+        </descripGrp>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>leg</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>pierna</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="ca0da9bcf-3497-428a-b79a-2c910c5b885e">
+        <descrip type="subjectField">economics</descrip>
+        <descripGrp>
+          <descrip type="definition"> a nation with an underdeveloped industrial base, and a low Human Development Index (HDI) relative to other countries.</descrip>
+          <admin type="source">Wikipedia</admin>
+        </descripGrp>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>developing nation</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>país en vías de desarrollo</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="ca4e084d0-627b-4d4a-9829-4b8857b8f808">
+        <descrip type="subjectField">medicine</descrip>
+        <descrip type="definition"> an illness that affects a person, animal, or plant</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>disease</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>enfermedad</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cac7a1143-4bd4-4c9f-a9ae-fe53b69e9f8a">
+        <descrip type="subjectField">medical</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>insurance companies</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>compañías de seguros</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="caf48ea58-2c36-47c0-8870-061c87e2c5a8">
+        <descrip type="subjectField">economics</descrip>
+        <descrip type="definition">Employment</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>job</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>trabajo</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>empleo</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cc53fe867-d65b-414a-866c-b7962f3ec785">
+        <descrip type="definition">something that a person must have</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>need</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>necesidad</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cc5c896ca-33ad-4e2b-9806-23c72911c13b">
+        <descripGrp>
+          <descrip type="definition">to suggest (something, such as a plan or theory) to a person or group of people to consider</descrip>
+          <admin type="source">Merriam-Webster</admin>
+        </descripGrp>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>propose</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>proponerse</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+    </body>
+  </text>
+</tbx>

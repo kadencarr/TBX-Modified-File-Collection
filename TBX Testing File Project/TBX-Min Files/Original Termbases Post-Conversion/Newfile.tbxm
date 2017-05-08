@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tbx style="dct" type="TBX-Min">
+  <header>
+    <id>D001</id>
+    <description>A TBX-Min example containing two concept entries with multiple terms in two languages (English and Spanish)</description>
+    <languages source="en" target="de"/>
+    <creator>BYU TRG</creator>
+    <directionality>bidirectional</directionality>
+    <license>CC BY license can be freely copied and modified</license>
+  </header>
+  <body>
+    <conceptEntry id="C001">
+      <subjectField>Currency</subjectField>
+      <langSec xml:lang="en">
+        <termSec>
+          <term>money</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <termStatus>preferred</termStatus>
+          <noteGrp>
+            <note>
+              <noteValue>may refer to physical or banked currency</noteValue>
+            </note>
+          </noteGrp>
+          <customer>TRG</customer>
+        </termSec>
+        <termSec>
+          <term>cash</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <termStatus>admitted</termStatus>
+          <noteGrp>
+            <note>
+              <noteValue>refers to physical currency</noteValue>
+            </note>
+          </noteGrp>
+          <customer>TRG</customer>
+        </termSec>
+        <termSec>
+          <term>dough</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <termStatus>admitted</termStatus>
+          <noteGrp>
+            <note>
+              <noteValue>a more recent slang synonym</noteValue>
+            </note>
+          </noteGrp>
+          <customer>TRG</customer>
+        </termSec>
+        <termSec>
+          <term>bread</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <termStatus>notRecommended</termStatus>
+          <noteGrp>
+            <note>
+              <noteValue>a older slang synonym</noteValue>
+            </note>
+          </noteGrp>
+          <customer>TRG</customer>
+        </termSec>
+      </langSec>
+      <langSec xml:lang="de">
+        <termSec>
+          <term>Geld</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <termStatus>preferred</termStatus>
+          <noteGrp>
+            <note>
+              <noteValue>may refer to physical or banked currency</noteValue>
+            </note>
+          </noteGrp>
+          <customer>TRG</customer>
+        </termSec>
+        <termSec>
+          <term>Bargeld</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <termStatus>admitted</termStatus>
+          <noteGrp>
+            <note>
+              <noteValue>refers to physical currency</noteValue>
+            </note>
+          </noteGrp>
+          <customer>TRG</customer>
+        </termSec>
+        <termSec>
+          <term>Knete</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <termStatus>admitted</termStatus>
+          <noteGrp>
+            <note>
+              <noteValue>a slang term for Geld, has no plural</noteValue>
+            </note>
+          </noteGrp>
+          <customer>TRG</customer>
+        </termSec>
+        <termSec>
+          <term>Kohle</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <termStatus>notRecommended</termStatus>
+          <noteGrp>
+            <note>
+              <noteValue>an older slang form used shortly after WW2</noteValue>
+            </note>
+          </noteGrp>
+          <customer>TRG</customer>
+        </termSec>
+      </langSec>
+    </conceptEntry>
+    <conceptEntry id="C002">
+      <subjectField>Music</subjectField>
+      <langSec xml:lang="en">
+        <termSec>
+          <term>music</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <termStatus>preferred</termStatus>
+          <noteGrp>
+            <note>
+              <noteValue>may mean music in general or may mean an instance of music ("Let's play music")</noteValue>
+            </note>
+          </noteGrp>
+          <customer>TRG</customer>
+        </termSec>
+        <termSec>
+          <term>jam</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <termStatus>notRecommended</termStatus>
+          <noteGrp>
+            <note>
+              <noteValue>slang for music, specifically the making of, used mostly by musicians (i.e. "Let's have a jam!") </noteValue>
+            </note>
+          </noteGrp>
+          <customer>TRG</customer>
+        </termSec>
+      </langSec>
+      <langSec xml:lang="de">
+        <termSec>
+          <term>Musik</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <termStatus>preferred</termStatus>
+          <customer>TRG</customer>
+        </termSec>
+        <termSec>
+          <term>Mucke</term>
+          <partOfSpeech>noun</partOfSpeech>
+          <termStatus>notRecommended</termStatus>
+          <noteGrp>
+            <note>
+              <noteValue>slang term for music, specifically the making of, used mostly by musicians (i.e. "Haben wir 'ne Mucke!")</noteValue>
+            </note>
+          </noteGrp>
+          <customer>TRG</customer>
+        </termSec>
+      </langSec>
+    </conceptEntry>
+  </body>
+</tbx>

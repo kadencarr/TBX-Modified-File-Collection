@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<!DOCTYPE martif SYSTEM "TBXBasiccoreStructV02.dtd">
+<!-- Created by the CRITI terminology management system. -->
+<martif type="TBX-Basic" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CRITI TBX-Basic File</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>CRITI system tbx export.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">http://www.lisa.org/fileadmin/standards/tbx_basic/TBXBasicXCSV02.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="c972f6333-b9bb-4f54-86fa-5e250a641225">
+        <descrip type="subjectField">electronics</descrip>
+        <langSet xml:lang="en">
+          <ntig>
+            <term>lamp</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <term>лампа</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+      <termEntry id="cad2ebb1a-2ffd-4f45-8347-c4c806011da3">
+        <descrip type="subjectField">electronics</descrip>
+        <langSet xml:lang="en">
+          <ntig>
+            <term>movie</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <ntig>
+            <term>кино</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </ntig>
+        </langSet>
+      </termEntry>
+    </body></text>
+</martif>

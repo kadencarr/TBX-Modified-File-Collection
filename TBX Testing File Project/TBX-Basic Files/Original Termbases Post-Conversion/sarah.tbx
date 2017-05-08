@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE tbx SYSTEM "TBXBasiccoreStructV03.dtd">
+<tbx style="dca" type="TBX-Basic" xml:lang="en">
+  <tbxHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CRITI TBX-Basic File</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>CRITI system tbx export.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">http://www.lisa.org/fileadmin/standards/tbx_basic/TBXBasicXCSV02.xcs</p>
+    </encodingDesc>
+  </tbxHeader>
+  <text>
+    <body>
+      <conceptEntry id="c972f6333-b9bb-4f54-86fa-5e250a641225">
+        <descrip type="subjectField">electronics</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>lamp</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="ru">
+          <termSec>
+            <term>лампа</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cad2ebb1a-2ffd-4f45-8347-c4c806011da3">
+        <descrip type="subjectField">electronics</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>movie</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="ru">
+          <termSec>
+            <term>кино</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">neuter</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+    </body>
+  </text>
+</tbx>

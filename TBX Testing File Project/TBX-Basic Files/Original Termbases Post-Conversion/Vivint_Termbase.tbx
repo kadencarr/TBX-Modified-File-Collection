@@ -1,0 +1,1037 @@
+<?xml version="1.0"?>
+<!DOCTYPE tbx SYSTEM "TBXBasiccoreStructV03.dtd">
+<tbx style="dca" type="TBX-Basic" xml:lang="en">
+  <tbxHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CRITI TBX-Basic File</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>CRITI system tbx export.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">http://www.lisa.org/fileadmin/standards/tbx_basic/TBXBasicXCSV02.xcs</p>
+    </encodingDesc>
+  </tbxHeader>
+  <text>
+    <body>
+      <conceptEntry id="c07e6c7b2-d815-4cc3-a126-b08f96d91965">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Regulatory</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Regulaciones</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c09a3e559-5ef9-45c9-b71c-fd28ff531f6d">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Duress Signal</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>Duress Code</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Señal  de Peligro</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>Codigo de Peligro</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c0d50257c-afd3-46b3-82d9-5c195715b430">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Home Automation</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Automatización del Hogar</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c0dc0270f-148c-426a-b302-e707f3e982aa">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">An electronic device used for computation.</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Computer</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Computadora</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c101493dd-e536-4367-be4a-478ee2622d04">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">AC Power</descrip>
+        <langSec xml:lang="en">
+          <descrip type="definition">Corriente Alterna</descrip>
+          <termSec>
+            <term>AC Power</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <descrip type="definition">Corriente Alterna</descrip>
+          <termSec>
+            <term>Corriente Alterna</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>CA</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c1140190a-0ea4-427a-bf3e-83fa70359986">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Two-way voice</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Comunicación bidireccional</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c14e1a892-3d9d-4ee4-964b-38bf07cf979f">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Touchscreen Display</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Pantalla Táctil</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c23154eac-c0ba-4a67-9975-dcf857160204">
+        <descrip type="subjectField">Technical</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Factory</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Fabrica</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c23ea92f9-2a23-4b34-8dcc-eb0ddc931938">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Harddrive</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Disco Duro</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c26872776-f9e9-4958-b785-7c67611d89f5">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Flood Sensor</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Sensor de Inundación</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c26f02ca0-04d9-4158-b47d-d605da9bfab5">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">Alarm Siren</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Alarm Siren</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Alarma</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c2c8575e0-d98a-4334-8262-207682de5190">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>App</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Aplicación</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c3e2fe121-6689-4f22-b595-2beb0ff92057">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Tracked</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Rastreado</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c3ed23a70-077f-4c4a-a528-a025221627ad">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">Messages</descrip>
+        <langSec xml:lang="en">
+          <descrip type="definition">Mensajes</descrip>
+          <termSec>
+            <term>Messages</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <descrip type="definition">Mensajes</descrip>
+          <termSec>
+            <term>Mensajes</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c43dc9ae8-72ae-4fa8-b8ae-f1e8afea6ae1">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Screen</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Pantalla</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c451c0fe0-d622-49d4-af7b-5ea65e7367a6">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Sensor Bypass</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Circunvalar el sensor</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c4a97e189-2316-491a-9ca2-df165d4f91d6">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Warranty</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Garantía</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c4c25287b-59dd-429a-ac66-10f6273f4df7">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Home Security</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Seguridad de Hogar</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c4e56f03e-e57a-46e9-b2c8-7d955fa9d113">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">Power</descrip>
+        <langSec xml:lang="en">
+          <descrip type="definition">Luz</descrip>
+          <termSec>
+            <term>Power</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <descrip type="definition">Luz</descrip>
+          <termSec>
+            <term>Luz</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>Carga</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>Energía</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c55505d46-541a-4897-94ab-7fe9b40b112a">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Daylight Savings</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Horario de Verano</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c5d053f4b-4e7c-419f-a334-4cbecb546417">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Important</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Importante</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c66e963bb-1405-4728-9956-b578db30c91a">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">A device meant to compute data</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Computer</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Computadora</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c6c058f4e-8dc1-4f1f-aea7-a7ac587a264a">
+        <langSec xml:lang="en">
+          <descrip type="definition">Caja de Herramientas</descrip>
+          <termSec>
+            <term>Installer Toolbox</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <descrip type="definition">Caja de Herramientas</descrip>
+          <termSec>
+            <term>Caja de Herramientas</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c6e880c33-fe24-453b-a579-e08c9c76bbb1">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">Sound</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Sound</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Sonido</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c726328a7-ef49-4461-9c03-70fcde637d23">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Burglary</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Robo</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>Asalto</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c75d3cd55-fca1-4f21-b3ef-9cca2261f929">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">Button to return to home page</descrip>
+        <langSec xml:lang="en">
+          <descrip type="definition">Botón Hogar</descrip>
+          <termSec>
+            <term>Home Button</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <descrip type="definition">Botón Hogar</descrip>
+          <termSec>
+            <term>Botón Hogar</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>Botón Hogar</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <descrip type="definition">Botón Hogar</descrip>
+          <termSec>
+            <term>Botón Hogar</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>Botón Hogar</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c7f2295ec-3a6c-4c00-8aae-0aeb5dca7ab0">
+        <descrip type="subjectField">Technology</descrip>
+        <descrip type="definition">Technician, Técnico</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Instalador</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Instalador</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c8499358f-4a15-489f-a137-b400aa35254d">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Carbon Monoxide Detector</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>CO</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Detector Carbono Monóxido</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>CO</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c84c6d14d-4e8d-49a2-b298-973a6340a65b">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Warning</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Advertencia</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c8a64b387-0b28-462a-9b92-a974605ceae5">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">Battery Power</descrip>
+        <langSec xml:lang="en">
+          <descrip type="definition">Energía de la batería</descrip>
+          <termSec>
+            <term>Battery Power</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <descrip type="definition">Energía de la batería</descrip>
+          <termSec>
+            <term>Energía de la batería</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c8cea52a4-ca91-4352-9360-7cad34d0960e">
+        <descrip type="subjectField">test</descrip>
+        <langSec xml:lang="en">
+          <descrip type="definition">test</descrip>
+          <termSec>
+            <term>test</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <descrip type="definition">test</descrip>
+          <termSec>
+            <term>test</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="c91789c54-7131-4415-a823-94f688204e80">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Caution</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term> Precaución</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="ca270e4a6-cda5-4055-b2bd-da06ec6a7985">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">Panic</descrip>
+        <langSec xml:lang="en">
+          <descrip type="definition">Pánico</descrip>
+          <termSec>
+            <term>Panic</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <descrip type="definition">Pánico</descrip>
+          <termSec>
+            <term> Pánico</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cabb0b3b3-8d18-47df-8cf5-629a0c6ae3ae">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Remote Access</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Acceso Remoto</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cb1730749-24f3-4ea6-ad58-50e09401c86b">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Key Fob</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Llavero</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cb1b0d988-a21c-4407-bc9e-6932db01523d">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>FAQ</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>Frequently Asked Questions</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>PF</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>Preguntas Frecuentes</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cbc0b89d0-5fc3-41c4-bd1e-e82aa3a01689">
+        <langSec xml:lang="en">
+          <descrip type="definition">Técnico</descrip>
+          <termSec>
+            <term>Installer</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <descrip type="definition">Técnico</descrip>
+          <termSec>
+            <term>Instalador</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cbc616d49-3a50-4b0a-8a2d-4674bea56ea2">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Environmental</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Ambiental</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cbd2e828c-2f1f-4fb2-953f-64332ab2a465">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Microphone</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Micrófono</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cbedbe951-f9d5-4738-8522-346b64a83e26">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Compliance</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Cumplimiento</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>Conforme</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cc673d3be-425a-4938-8c25-cd29138caa93">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Tamper</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Alterar</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cce76cde2-463b-489c-8d2c-0cbd38b069d5">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">Fire</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Fire</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Incendio</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cd52791fa-83c1-4252-a095-2e1107820eea">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Standards</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>Regulations</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Nivel</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cdf7ecbc5-b537-4244-a9af-91f0310ae41b">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Floor Plan</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Plano</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="ce3b770ae-5199-44e2-87df-7da560497094">
+        <langSec xml:lang="en">
+          <descrip type="definition">Servicio profesional</descrip>
+          <termSec>
+            <term>Field Service Professional</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <descrip type="definition">Servicio profesional</descrip>
+          <termSec>
+            <term>Servicio profesional</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="ce490c4c2-4114-4b19-952e-cba8140f21e0">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Smart Phone</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Teléfono Inteligente</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="ce7324c8d-a6c6-48dd-8159-d36a5bb69837">
+        <descrip type="subjectField">Test</descrip>
+        <descripGrp>
+          <descrip type="definition">Test</descrip>
+          <admin type="source">test</admin>
+        </descripGrp>
+        <langSec xml:lang="en">
+          <descripGrp>
+            <descrip type="definition">Test</descrip>
+            <admin type="source">Test</admin>
+          </descripGrp>
+          <termSec>
+            <term>Test</term>
+            <termNote type="partOfSpeech">verb</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="ceb50a607-2081-4c5a-a014-84cd28b5d4bc">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Code</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Clave</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>Codigo</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cec69fa8e-fb9f-42be-abea-91bf82b4cba2">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">Speaker</descrip>
+        <langSec xml:lang="en">
+          <descrip type="definition">Bocina</descrip>
+          <termSec>
+            <term>Speaker</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <descrip type="definition">Bocina</descrip>
+          <termSec>
+            <term>Bocina</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cee4e0ebf-53a3-491d-ab97-b4022c5c72fd">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">A screen that you can interface with using just your fingers or a stylus.</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Touch Screen</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Pantalla Tactil</term>
+            <termNote type="partOfSpeech">noun</termNote>
+            <termNote type="grammaticalGender">feminine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cf255b856-05df-4cb8-86e6-76e92ce97f16">
+        <descrip type="subjectField">Technical</descrip>
+        <descrip type="definition">Emergency Button</descrip>
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Emergency Button</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Botón de emergencia</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="grammaticalGender">masculine</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cf7a31e1f-6b9c-464e-9c05-d539599b66fd">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Network</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+          <termSec>
+            <term>Local Network</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Red</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+      <conceptEntry id="cff7c01bb-0d93-4034-b5ad-627f8658294c">
+        <langSec xml:lang="en">
+          <termSec>
+            <term>Menu</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+        <langSec xml:lang="es">
+          <termSec>
+            <term>Menú</term>
+            <termNote type="partOfSpeech">other</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+          </termSec>
+        </langSec>
+      </conceptEntry>
+    </body>
+  </text>
+</tbx>
